@@ -1,0 +1,8 @@
+Quantum mechanics is the field of physics that explains how extremely small objects simultaneously have the characteristics of both particles (tiny pieces of matter) and waves (a disturbance or variation that transfers energy). Physicists call this the “wave-particle duality.”
+
+The particle portion of the wave-particle duality involves how objects can be described as “quanta.” A quanta is the smallest discrete unit (such as a particle) of a natural phenomenon in a system where the units are in a bound state. For example, a quanta of electromagnetic radiation, or light, is a photon. A bound state is one where the particles are trapped. One example of a bound state is the electrons, neutrons, and protons that are in an atom.
+
+To be “quantized” means the particles in a bound state can only have discrete values for properties such as energy or momentum. For example, an electron in an atom can only have very specific energy levels. This is different from our world of macroscopic particles, where these properties can be any value in a range. A baseball can have essentially any energy as it is thrown, travels through the air, gradually slows down, then stops.
+
+At the same time, tiny quantized particles such as electrons can also be described as waves. Like a wave in the ocean in our macroscopic world – the world we can see with our eyes -- waves in the quantum world are constantly shifting. In quantum mechanics, scientists talk about a particle’s “wave function.” This is a mathematical representation used to describe the probability that a particle exists at a certain location at a certain time with a certain momentum.
+
