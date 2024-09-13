@@ -110,6 +110,6 @@ Contributions are welcome! Please open an issue or submit a pull request to impr
 
 ---
 
-### Feel free to modify the template as needed! Let me know if you need further adjustments or assistance with other parts of your project.
+### Feel free to modify the template as needed! 
 
 <img width="1336" alt="image" src="https://github.com/user-attachments/assets/fc334d00-d0aa-4c9c-9136-26ebb893f9df">
