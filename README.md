@@ -25,7 +25,7 @@ An AI-powered Multiple Choice Question (MCQ) generator, utilizing **Large Langua
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Sohampatel26/MCQ-Generator-using-LLM-on-Langchan.git
+git clone https://github.com/Sohampatel26/MCQ-Generator-using-LLM-on-Langchain.git
 cd MCQ-Generator-using-LLM-and-Langchan
 ```
 
