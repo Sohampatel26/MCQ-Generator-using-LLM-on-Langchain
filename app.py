@@ -20,7 +20,7 @@ except FileNotFoundError:
 
 # Set page configuration
 st.set_page_config(
-    page_title="MCQ Generator - Built by Soham Patel",
+    page_title="MCQ Generator",
     page_icon="🧠",
     layout="centered",  # Center layout to avoid issues with large content
     initial_sidebar_state="expanded",
@@ -80,7 +80,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # Title and description
-st.title("🧠 MCQ Generator - Built by Soham Patel")
+st.title("🧠 MCQ Generator")
 st.write("""
 Welcome to the **MCQ Generator**, an AI-powered tool that helps you generate multiple-choice questions (MCQs) from text or PDF files. 
 You can customize the number of questions, topic, and difficulty level, making it an ideal tool for educators and learners alike.
