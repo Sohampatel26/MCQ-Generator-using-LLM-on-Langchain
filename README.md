@@ -1,6 +1,7 @@
 # MCQ Generator using LLM and Langchain
 
-![MCQ Generator](https://img.shields.io/badge/MCQ-Generator-blue.svg)
+<img width="1373" alt="image" src="https://github.com/user-attachments/assets/6fa7ece6-4975-4c86-bca4-9d1438264aa2">
+
 
 An AI-powered Multiple Choice Question (MCQ) generator, utilizing **Large Language Models (LLMs)** and **Langchain** for generating custom questions based on input text files or PDF documents. This tool allows educators, students, and learners to easily create customized MCQs, improving learning experiences and automating question generation tasks.
 
