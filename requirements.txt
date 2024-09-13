@@ -1,8 +1,10 @@
-openai
 langchain
+langchain-community
+langchain-google-genai
 streamlit
+ipykernel
 python-dotenv
+ipywidgets
 PyPDF2
-langchain_community
 
 -e .
