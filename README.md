@@ -3,7 +3,7 @@
 An AI-powered Multiple Choice Question (MCQ) generator, utilizing **Large Language Models (LLMs)** and **Langchain** for generating custom questions based on input text files or PDF documents. This tool allows educators, students, and learners to easily create customized MCQs, improving learning experiences and automating question generation tasks.
 
 ## 🚀 Features
-x
+
 - **Automatic MCQ generation**: Generates MCQs from `.txt` or `.pdf` files using LLMs.
 - **Customizable**: Control the number of questions, subject, and difficulty level.
 - **User-friendly UI**: Built using Streamlit for a simple, web-based interface.
